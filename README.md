@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quaniseddy" alt="quaniseddy" /></a> </p>
 
-- 🔭 I’m currently working on **Leetcode Hard Questions**
+- 🔭 I’m currently working on **Simulate Banking System**
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **JS + React Framework**
 
 - 👯 I’m looking to collaborate on **Web Application**
 
-- 👨‍💻 All of my projects are available at [My Github Repo](My Github Repo)
+- 👨‍💻 All of my projects are available at My Github Repo
 
 - 📫 How to reach me **edddyzh@outlook.com**
 
