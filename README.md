@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Quan Zhang</h1>
-<h3 align="center">A results-oriented and innovative IT student at UNSW</h3>
+<h1 align="center">Hi 👋, I'm Quan Zhang (Eddy).</h1>
+<h3 align="center">A results-oriented and innovative IT student at UNSW in my FINAL Year 🥳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaniseddy&label=Profile%20views&color=0e75b6&style=flat" alt="quaniseddy" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Simulate Banking System**
 
-- 🌱 I’m currently learning **JS + React Framework**
+- 🌱 I’m currently learning **JS + React Framework + System Capacity Design + Data Mining**
 
-- 👯 I’m looking to collaborate on **Web Application**
+- 👯 I’m looking to collaborate on **Web Applications**
 
-- 👨‍💻 All of my projects are available at My Github Repo
+- 👨‍💻 Most of my projects are available at My Github Repo, some to be finished project will be published when structured.
 
 - 📫 How to reach me **edddyzh@outlook.com**
 
-- ⚡ Fun fact **I dedicate my time to CS and Gym**
+- ⚡ Fun fact **If I am not doing my project, I am at the gym 🏋️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
