@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quaniseddy" alt="quaniseddy" /></a> </p>
 
-- 🔭 I’m currently working on **Simulate Banking System**
+- 🔭 I’m currently working on **Web services**
 
-- 🌱 I’m currently learning **JS + React Framework + System Capacity Design + Data Mining**
+- 🌱 I’m currently learning **Restful Api, Flask**
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
