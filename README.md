@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Quan Zhang (Eddy).</h1>
-<h3 align="center">A results-oriented and innovative IT student at UNSW in my FINAL Year 🥳</h3>
+<h3 align="center">A results-oriented and innovative IT student at UNSW, Graduating 2025 🥳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaniseddy&label=Profile%20views&color=0e75b6&style=flat" alt="quaniseddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quaniseddy" alt="quaniseddy" /></a> </p>
 
-- 🔭 I’m currently working on **Web services**
+- 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **Restful Api, Flask**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
 - 👨‍💻 Most of my projects are available at My Github Repo, some to be finished project will be published when structured.
 
-- 📫 How to reach me **edddyzh@outlook.com**
+- 📫 How to reach me **eddyzzhh@outlook.com**
 
 - ⚡ Fun fact **If I am not doing my project, I am at the gym 🏋️**
 
