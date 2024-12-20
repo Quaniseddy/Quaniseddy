@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quan Zhang (Eddy).</h1>
+<h1 align="center">Hi 👋, I'm Eddie.</h1>
 <h3 align="center">A results-oriented and innovative IT student at UNSW, Graduating 2025 🥳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaniseddy&label=Profile%20views&color=0e75b6&style=flat" alt="quaniseddy" /> </p>
