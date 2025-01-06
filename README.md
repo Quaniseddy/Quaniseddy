@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quaniseddy" alt="quaniseddy" /></a> </p>
 
-- 🔭 I’m currently working on **Web Applications**
+- 🔭 I’m currently working on **My New Web Portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, C#, .NET**
 
-- 👯 I’m looking to collaborate on **Web Applications**
+- 👯 I’m looking to collaborate on **Front End Projects**
 
-- 👨‍💻 Most of my projects are available at My Github Repo, some to be finished project will be published when structured.
+- 👨‍💻 Most of my projects are available at My Github Repo, some are yet to be published (before early Feb).
 
 - 📫 How to reach me **eddyzzhh@outlook.com**
 
-- ⚡ Fun fact **If I am not doing my project, I am at the gym 🏋️**
+- ⚡ Fun fact **If I am not home, 80% of the chance that I am at the gym 🏋️, 20% than I am at a beach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
